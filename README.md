@@ -35,17 +35,20 @@ Ready to give it a spin? Here's how to get started:
 ## UML Class Diagrams
 We've created UML class diagrams to illustrate the relationships between the classes in our software. Check them out below:
 
-### InventoryUI
-![InventoryUI and Inventory Relationship](<img width="122" alt="InventoryUI" src="https://github.com/asadali163/Inventory-management-system/assets/87898113/0e5d6c44-ccbe-4541-9198-0a3f6fb9fe6d">
-)
+### InventoryUI Class Diagram
+![InventoryUI and Inventory Relationship](https://github.com/asadali163/Inventory-management-system/assets/87898113/0e5d6c44-ccbe-4541-9198-0a3f6fb9fe6d>)
 *Description: This diagram outlines the structure of the InventoryUI class, including its attributes and methods..*
 
+### Inventory Class Diagram
+![InventoryUI and Inventory Relationship](https://github.com/asadali163/Inventory-management-system/assets/87898113/4e87b738-e8e6-4908-9dc0-0870f3a712d7)
+*Description: This diagram outlines the structure of the Inventory class, including its attributes and methods..*
+
 ### Item Class Diagram
-![Item Class Diagram](link-to-your-image.png)
+![Item Class Diagram](https://github.com/asadali163/Inventory-management-system/assets/87898113/428c888c-4cf8-4fff-bacb-10056ce793ee)
 *Description: This diagram outlines the structure of the Item class, including its attributes and methods.*
 
 ### FileManager Class Diagram
-![FileManager Class Diagram](link-to-your-image.png)
+![FileManager Class Diagram](https://github.com/asadali163/Inventory-management-system/assets/87898113/21f60eea-c767-430f-a50f-6c3afb44df92)
 *Description: This diagram depicts the FileManager class and its functionalities for saving and loading data.*
 
 
