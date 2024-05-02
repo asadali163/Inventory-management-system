@@ -35,9 +35,10 @@ Ready to give it a spin? Here's how to get started:
 ## UML Class Diagrams
 We've created UML class diagrams to illustrate the relationships between the classes in our software. Check them out below:
 
-### InventoryUI and Inventory Relationship
-![InventoryUI and Inventory Relationship](link-to-your-image.png)
-*Description: This diagram shows the relationship between the InventoryUI and Inventory classes.*
+### InventoryUI
+![InventoryUI and Inventory Relationship](<img width="122" alt="InventoryUI" src="https://github.com/asadali163/Inventory-management-system/assets/87898113/0e5d6c44-ccbe-4541-9198-0a3f6fb9fe6d">
+)
+*Description: This diagram outlines the structure of the InventoryUI class, including its attributes and methods..*
 
 ### Item Class Diagram
 ![Item Class Diagram](link-to-your-image.png)
