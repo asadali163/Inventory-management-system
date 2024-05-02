@@ -105,5 +105,4 @@ By implementing these system-level improvements, our software becomes more robus
 ## Contributing
 Got ideas to make our system even better? We'd love to hear them! Feel free to open an issue or pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
