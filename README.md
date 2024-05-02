@@ -71,6 +71,21 @@ By incorporating these linear data structures, our software is now more robust, 
 We've committed all necessary updates to our GitHub repository and updated the description page to reflect these enhancements. Additionally, we're actively participating in any posted Blackboard activities related to this part of the Major Assignment.
 
 
+# Part 3 – Trees, Graphs, and Hashing
+
+In this phase of the project, we've further expanded the functionality of our inventory management software by integrating advanced data structures such as trees, graphs, and hashing. Here's a summary of the key enhancements:
+
+- **Efficient Binary Search Tree**: We've implemented an efficient binary search tree (BST) to facilitate quick searching through our inventory data. The BST ensures logarithmic time complexity for search operations, enabling rapid retrieval of items based on specified criteria such as ID or name. This enhances the overall performance and efficiency of our inventory management system.
+
+- **Custom Hash Table Structure**: To optimize data retrieval and storage, we've developed a custom hash table structure tailored to our inventory management needs. The hash table employs a hashing function to map keys (e.g., item IDs) to corresponding values (e.g., item objects), allowing for constant-time access to items based on their unique identifiers. This implementation ensures efficient handling of large datasets and minimizes search times, contributing to improved system responsiveness.
+
+- **Weighted Graph Representation**: Additionally, we've introduced a weighted graph representation to model relationships between inventory items. This graph structure can be utilized to visualize connections or dependencies between items, facilitating advanced analytics and decision-making processes. Whether it's identifying optimal routes for inventory transportation or analyzing item associations, the weighted graph adds a new dimension to our inventory management capabilities.
+
+By incorporating these advanced data structures, our software becomes even more versatile, robust, and scalable, empowering users with enhanced capabilities for managing and analyzing inventory data.
+
+We've committed all necessary updates to our GitHub repository and updated the description page to reflect these enhancements. Moreover, we're actively participating in any posted Blackboard activities related to this part of the Major Assignment.
+
+
 
 ## Contributing
 Got ideas to make our system even better? We'd love to hear them! Feel free to open an issue or pull request.
