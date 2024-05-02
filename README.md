@@ -85,6 +85,21 @@ By incorporating these advanced data structures, our software becomes even more 
 
 We've committed all necessary updates to our GitHub repository and updated the description page to reflect these enhancements. Moreover, we're actively participating in any posted Blackboard activities related to this part of the Major Assignment.
 
+# Part 4 – System Level Improvements
+
+In this phase of the project, we've introduced significant system-level improvements to enhance the functionality and efficiency of our inventory management software. Here's an overview of the key enhancements:
+
+- **Database Integration with JDBC**: Leveraging Java Database Connectivity (JDBC), we've seamlessly integrated our inventory management software with external databases. By implementing database access methods in the `Inventory` class, we ensure persistent storage and retrieval of inventory data. This enhancement enhances the scalability and reliability of our system, facilitating efficient management of large datasets and seamless integration with existing database systems.
+
+- **Efficient Binary Search Tree**: To optimize search operations within our inventory data, we've implemented an efficient binary search tree (BST) in the `Inventory` class. By organizing inventory items in a binary search tree structure, we enable fast and efficient searching based on item IDs. This enhancement improves search performance and ensures quick retrieval of inventory items, enhancing overall system efficiency.
+
+- **Hash Table Implementation**: In addition to the binary search tree, we've implemented a custom hash table structure for efficient data storage and retrieval. The hash table, implemented in the `Inventory` class, utilizes hashing algorithms to map item attributes to unique hash codes, enabling fast access and retrieval of inventory items. This enhancement enhances data organization and ensures quick access to inventory data, contributing to improved system performance.
+
+- **Additional Improvements**: We've made further enhancements to our software, such as [insert your chosen improvement here]. This enhancement further enhances the functionality or usability of our inventory management software, providing additional value to users.
+
+By implementing these system-level improvements, our software becomes more robust, scalable, and efficient, meeting the evolving needs of businesses and users. We've committed all necessary updates to our GitHub repository and updated the description page to reflect these enhancements. Moreover, we're actively participating in any posted Blackboard activities related to this part of the Major Assignment.
+
+
 
 
 ## Contributing
