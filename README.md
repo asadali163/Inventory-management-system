@@ -32,6 +32,24 @@ Ready to give it a spin? Here's how to get started:
 3. Compile and run the Java files to launch the application.
 4. Start managing your inventory like a pro!
 
+## UML Class Diagrams
+We've created UML class diagrams to illustrate the relationships between the classes in our software. Check them out below:
+
+### InventoryUI and Inventory Relationship
+![InventoryUI and Inventory Relationship](link-to-your-image.png)
+*Description: This diagram shows the relationship between the InventoryUI and Inventory classes.*
+
+### Item Class Diagram
+![Item Class Diagram](link-to-your-image.png)
+*Description: This diagram outlines the structure of the Item class, including its attributes and methods.*
+
+### FileManager Class Diagram
+![FileManager Class Diagram](link-to-your-image.png)
+*Description: This diagram depicts the FileManager class and its functionalities for saving and loading data.*
+
+
+
+
 ## Contributing
 Got ideas to make our system even better? We'd love to hear them! Feel free to open an issue or pull request.
 
