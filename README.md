@@ -56,6 +56,20 @@ We've created UML class diagrams to illustrate the relationships between the cla
 *The FileManager class plays a crucial role in our system, providing functionalities for managing data persistence. It offers methods like saveToFile and loadFromFile, facilitating the storage and retrieval of inventory data from external files. By encapsulating file operations, FileManager abstracts away the complexities of file handling, ensuring seamless integration with the rest of the system. Through its robust error handling and feedback mechanisms, FileManager ensures data integrity and reliability in data storage and retrieval operations.*
 
 
+# Part 2 – Linear Data Structures
+
+In this part of the project, we've enhanced our software to incorporate linear data structures, providing additional flexibility and efficiency in managing inventory data. Here's what we've done:
+
+- **Added a Deque Structure**: We've integrated a Deque (double-ended queue) from the Java API to support efficient insertion and deletion operations at both ends of the queue. This allows us to implement features such as displaying items in the order they were added and quickly accessing the most recently added items.
+
+- **Implemented a LinkedList**: To store inventory items, we've implemented our own LinkedList data structure. This custom LinkedList offers dynamic memory allocation and efficient insertion and deletion of elements, ensuring optimal performance for managing inventory data.
+
+- **Utilized Set and Map Structures**: We've leveraged Set and Map structures from the Java API for managing unique items and associating items with unique identifiers, respectively. Sets ensure that each item is stored only once, preventing duplicates in our inventory data. Maps allow us to efficiently retrieve and manipulate items based on their unique identifiers, enhancing data retrieval and update operations.
+
+By incorporating these linear data structures, our software is now more robust, scalable, and efficient, providing enhanced capabilities for inventory management tasks.
+
+We've committed all necessary updates to our GitHub repository and updated the description page to reflect these enhancements. Additionally, we're actively participating in any posted Blackboard activities related to this part of the Major Assignment.
+
 
 
 ## Contributing
