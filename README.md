@@ -37,19 +37,23 @@ We've created UML class diagrams to illustrate the relationships between the cla
 
 ### InventoryUI Class Diagram
 ![InventoryUI and Inventory Relationship](https://github.com/asadali163/Inventory-management-system/assets/87898113/0e5d6c44-ccbe-4541-9198-0a3f6fb9fe6d>)
-*Description: This diagram outlines the structure of the InventoryUI class, including its attributes and methods..*
+
+*Description:  The InventoryUI class serves as the graphical user interface (GUI) for our Inventory Management System. It encapsulates the interface elements, such as buttons, input fields, and tables, facilitating interaction with the inventory data. Through its methods and attributes, InventoryUI orchestrates the display of inventory items, addition, deletion, and modification operations, ensuring a seamless user experience.*
 
 ### Inventory Class Diagram
 ![InventoryUI and Inventory Relationship](https://github.com/asadali163/Inventory-management-system/assets/87898113/4e87b738-e8e6-4908-9dc0-0870f3a712d7)
-*Description: This diagram outlines the structure of the Inventory class, including its attributes and methods..*
+
+*The Inventory class lies at the heart of our system, functioning as the repository for managing inventory-related data. It maintains collections of items, such as itemList, itemDeque, and itemSet, offering various data structures for storage and retrieval. Through methods like addItem, updateItem, and deleteItem, Inventory provides functionalities for manipulating inventory items. Additionally, it interfaces with the database via initializeDatabase and fetchDataFromDatabase methods to ensure persistent storage and retrieval of inventory data.*
 
 ### Item Class Diagram
 ![Item Class Diagram](https://github.com/asadali163/Inventory-management-system/assets/87898113/428c888c-4cf8-4fff-bacb-10056ce793ee)
-*Description: This diagram outlines the structure of the Item class, including its attributes and methods.*
+
+*Description: The Item class represents individual items within our inventory system. It encapsulates attributes such as ID, name, quantity, and price, defining the core properties of each inventory item. Through getter and setter methods, Item enables access to and modification of its attributes, ensuring data integrity and encapsulation principles. With its constructor and initialization methods, Item facilitates the creation and initialization of item objects with specific properties.*
 
 ### FileManager Class Diagram
 ![FileManager Class Diagram](https://github.com/asadali163/Inventory-management-system/assets/87898113/21f60eea-c767-430f-a50f-6c3afb44df92)
-*Description: This diagram depicts the FileManager class and its functionalities for saving and loading data.*
+
+*The FileManager class plays a crucial role in our system, providing functionalities for managing data persistence. It offers methods like saveToFile and loadFromFile, facilitating the storage and retrieval of inventory data from external files. By encapsulating file operations, FileManager abstracts away the complexities of file handling, ensuring seamless integration with the rest of the system. Through its robust error handling and feedback mechanisms, FileManager ensures data integrity and reliability in data storage and retrieval operations.*
 
 
 
